@@ -22,7 +22,7 @@ Captcha toplama işlemleriden ibarettir.
 
 1. Klonlamak için:
    ```bash
-   git clone https://github.com/l1ve709XXD/x
+   git clone https://github.com/l1ve709/x
    cd bot-repo
    ```
 
@@ -57,11 +57,11 @@ Captcha toplama işlemleriden ibarettir.
 
 ## İletişim
 
-- İletişim e-posta: [businnes@l1ve709.com](mailto:github@l1ve709.com)
-- Instagram: [l1ve709](https://www.instagram.com/l1ve709)
+- İletişim e-posta: [edizsonmez.com.tr](edizsonmez.com.tr)
+- Instagram: [l1ve709](https://www.instagram.com/ediz.dll)
 
 ## Geliştirici
 
-- Geliştirici: l1ve709-Ediz Sönmez
+- Geliştirici: ediz.dll-Ediz Sönmez
 ```
 
