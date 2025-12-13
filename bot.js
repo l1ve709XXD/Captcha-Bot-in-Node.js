@@ -1,4 +1,4 @@
-//
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq//
 //*****************************************************************
 //*    *                                                *          *
 //*     *               _ _          _____ ___   ___  
@@ -7,8 +7,8 @@
 //*     *     | | |\ V /  __// /| |_| |\__, |
 //*   *       |_|_| \_/ \___/_/  \___/   /_/      *
 //*      *                                                     *    *
-//*    *          Contact Mail: businnes@l1ve709.com   *
-//*   *            Contact to Instagram: l1ve709                *   *
+//*    *          Contact Mail: nof4ce1337@gmail.com*
+//*   *            Contact to Instagram: ediz.dll                *   *
 //*      *            Developed by Ediz Sönmez                       *
 //*****************************************************************
 //
